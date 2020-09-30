@@ -31,10 +31,10 @@ The goals / steps of this project are the following:
 *Above values are selected based on visual inspection and hence are subject to change for individuals.*
 
 #### 1.2. Averaging and Extrapolation using draw_lines() function:
-1.1. Calculated slope and center for each line available to the draw_lines function.
-1.2. Classified the slope and center values between left and right side ones.
-1.3. Calculated average values of the classified slopes and center values.
-1.4. Identified either side line extremeties using slope, center and y(min)=315 and y(max)=540
+1. Calculated slope and center for each line available to the draw_lines function.
+2. Classified the slope and center values between left and right side ones.
+3. Calculated average values of the classified slopes and center values.
+4. Identified either side line extremeties using slope, center and y(min)=315 and y(max)=540
 
 Testing the pipeline:
 - Listed all the sample images available and batch processes all to see the effect of changes in parameters.
