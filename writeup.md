@@ -24,7 +24,7 @@ The goals / steps of this project are the following:
    - rho = 1
    - theta = np.pi/180
    - hough_threshold = 30
-   - min_line_len = 5
+   - min_line_len = 10
    - max_line_gap = 2
 6. Weighted Image Processing
 
